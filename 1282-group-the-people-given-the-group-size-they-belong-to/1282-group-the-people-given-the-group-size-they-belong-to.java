@@ -16,7 +16,6 @@ class Solution {
             }
             ans.add(list);
         }
-        Collections.sort(ans, (a, b) -> Integer.compare(a.size(), b.size()));
         return ans;
     }
 }
