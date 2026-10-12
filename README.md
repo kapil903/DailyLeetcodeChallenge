@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2396-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
