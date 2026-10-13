@@ -4,18 +4,18 @@ class Solution {
         for(int num : nums){
             hash[num]++;
         }
-        List<Integer> list = new ArrayList<>();
-        for(int i = 0; i <= 100; i++){
-            if(hash[i] != 0){
-                for(int j = 0; j < Math.min(k, hash[i]); j++){
-                    list.add(i);
-                }
-            }
+        int size = 0;
+        for(int num : hash){
+            size += Math.min(k, num);
         }
-        int[] ans = new int[list.size()];
+        int[] ans = new int[size];
         int ind = 0;
-        for(int num : list){
-            ans[ind++] = num;
+        for(int i = 0; i <= 100; i++){
+            int cnt = Math.min(k, hash[i]);
+            while(cnt > 0){
+                ans[ind++] = i;
+                cnt--;
+            }
         }
         return ans;
     }
