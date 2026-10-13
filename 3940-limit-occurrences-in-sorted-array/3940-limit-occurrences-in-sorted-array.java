@@ -11,6 +11,7 @@ class Solution {
         int[] ans = new int[size];
         int ind = 0;
         for(int i = 0; i <= 100; i++){
+            if(hash[i] == 0) continue;
             int cnt = Math.min(k, hash[i]);
             while(cnt > 0){
                 ans[ind++] = i;
