@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Math
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2396-strictly-palindromic-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
