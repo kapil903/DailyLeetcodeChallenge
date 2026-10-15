@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2562-find-the-array-concatenation-value](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2562-find-the-array-concatenation-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
