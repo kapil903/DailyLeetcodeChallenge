@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2562-find-the-array-concatenation-value](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2562-find-the-array-concatenation-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2396-strictly-palindromic-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2396-strictly-palindromic-number) |
 | [2562-find-the-array-concatenation-value](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2562-find-the-array-concatenation-value) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Brainteaser
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2562-find-the-array-concatenation-value](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2562-find-the-array-concatenation-value) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -59,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
