@@ -1,0 +1,23 @@
+class Solution {
+    public int minimumLength(String s) {
+        int n = s.length();
+        int i = 0; 
+        int j = n - 1;
+        while(i < j){
+            if(s.charAt(i) == s.charAt(j)){
+                char ch = s.charAt(i);
+                while(i < n && s.charAt(i) == ch){
+                    i++;
+                }
+                while(j >= 0 && s.charAt(j) == ch){
+                    j--;
+                }
+            }
+            else{
+                break;
+            }
+        }
+        if(i > j) return 0;
+        return j - i + 1;
+    }
+}
