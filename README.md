@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2396-strictly-palindromic-number](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2396-strictly-palindromic-number) |
 | [2562-find-the-array-concatenation-value](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2562-find-the-array-concatenation-value) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
