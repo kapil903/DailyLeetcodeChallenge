@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0443-string-compression) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
