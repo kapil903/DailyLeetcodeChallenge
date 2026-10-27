@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2239-find-closest-number-to-zero](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2239-find-closest-number-to-zero) |
+| [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2562-find-the-array-concatenation-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2315-count-asterisks) |
+| [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
