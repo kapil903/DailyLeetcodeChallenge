@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
