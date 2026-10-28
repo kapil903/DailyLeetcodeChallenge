@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2239-find-closest-number-to-zero](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2562-find-the-array-concatenation-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-strong-password-checker-ii](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
