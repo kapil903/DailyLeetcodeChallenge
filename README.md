@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2239-find-closest-number-to-zero](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2315-count-asterisks) |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Matrix
+|  |
+| ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
