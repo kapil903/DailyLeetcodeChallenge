@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Simulation
 |  |
