@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0867-transpose-matrix](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2562-find-the-array-concatenation-value) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -115,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0867-transpose-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
