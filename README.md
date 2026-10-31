@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0867-transpose-matrix](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0791-custom-sort-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0791-custom-sort-string) |
+| [0890-find-and-replace-pattern](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0443-string-compression) |
 | [0791-custom-sort-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0791-custom-sort-string) |
+| [0890-find-and-replace-pattern](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
