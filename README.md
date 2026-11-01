@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
