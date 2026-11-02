@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2239-find-closest-number-to-zero](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2315-count-asterisks) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2053-kth-distinct-string-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
