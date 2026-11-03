@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
