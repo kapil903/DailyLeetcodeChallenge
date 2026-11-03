@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2169-count-operations-to-obtain-zero](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2469-convert-the-temperature) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/0867-transpose-matrix) |
+| [2169-count-operations-to-obtain-zero](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2562-find-the-array-concatenation-value) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3775-reverse-words-with-same-vowel-count) |
