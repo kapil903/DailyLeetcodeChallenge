@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Math
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2544-alternating-digit-sum) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kapil903/DailyLeetcodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
